@@ -12,14 +12,13 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [4-pin connector 0.96-inch OLED Display (128x64 resolution, I2C interface)](https://www.amazon.com/dp/B072Q2X2LL?plpRedirect=mhFallback&ref=clp_cat_related_p_1&th=1) | To see expressions of the product and have a visual | 1 | $6.99 | $6.99 | [Amazon](https://www.amazon.com/dp/B072Q2X2LL?plpRedirect=mhFallback&ref=clp_cat_related_p_1&th=1) |
 | [8-pin connector Standard vertical pin header (2.54mm pin spacing)](https://www.readymaderc.com/products/details/pin-headers-3-rowsstraight-40-pins-2-54-spacing?srsltid=AU7gw4X9cOoaxGA4TUEQIX0QGrUxm9f2fcY5vv-_AiXRci8tc4pnyEHa) | Used for board to board connections | 1 | $0.99 | $0.99 | [RMRC](https://www.readymaderc.com/products/details/pin-headers-3-rowsstraight-40-pins-2-54-spacing?srsltid=AU7gw4X9cOoaxGA4TUEQIX0QGrUxm9f2fcY5vv-_AiXRci8tc4pnyEHa) |
 | [Push Buttons Cherry MX Mechanical Keyboard Switches Standard 1 unit size](https://focusattack.com/cherry-mx-blue-stem-50g-mechanical-switch-for-samducksa-202-mx-pushbutton/) | Buttons to interact with the product | 2 | $2.25 | $4.50 | [Focus Attack](https://focusattack.com/cherry-mx-blue-stem-50g-mechanical-switch-for-samducksa-202-mx-pushbutton/) |
 | [Seeed Studio XIAO ESP32-C3 surface-mount microcontroller board with WI-FI and Bluetooth](https://www.ebay.com/itm/297742945371) | The main microcontroller, controls the entire product | 1 | $10.19 | $10.19 | [Ebay](https://www.ebay.com/itm/297742945371) |
 | [DHT11 Temperature and Humidity sensor](https://electropeak.com/temprature-sensor-dht11-dfrobot-1?srsltid=AU7gw4WXG0YijjTukxUS0rdSx0Qd2LoG2L7z8W1O0OzUNpfDn_UI2xOKCEk) | Senses the temperature and humidity to be reacted from on the visuals of the product, allowing for further interactions and my own addition to the project | 1 | $0.68 | $0.68 | [Electro Peak](https://electropeak.com/temprature-sensor-dht11-dfrobot-1?srsltid=AU7gw4WXG0YijjTukxUS0rdSx0Qd2LoG2L7z8W1O0OzUNpfDn_UI2xOKCEk) |
 | [MS5837-xxBA](https://www.sager.com/product/ms583730ba01-50-cut-te-connectivity-sensors/6344244?srsltid=AU7gw4XudeCNatICpfwk0Cg7Ksj2qNG7TRON0WOQ-rT13g5VnGcTEEMsTH4) | Gel-filled pressure sensor that allows for further interactions with the product, included in the project guide for Starbie | 1 | $6.18 | $6.18 | [Sager Electronics](https://www.sager.com/product/ms583730ba01-50-cut-te-connectivity-sensors/6344244?srsltid=AU7gw4XudeCNatICpfwk0Cg7Ksj2qNG7TRON0WOQ-rT13g5VnGcTEEMsTH4) |
-| **Parts subtotal** | — | — | — | **$29.53** | — |
+| **Parts subtotal** | — | — | — | **$22.54** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$29.53** | — |
+| **Total** | — | — | — | **$22.54** | — |
 
-$0.47 left of the tier's funding.
+$7.46 left of the tier's funding.
